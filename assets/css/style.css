@@ -122,7 +122,7 @@ h6 {
 }
 
 #header .profile .social-links a:hover {
-  background: #149ddd;
+  background:grey;
   color: #fff;
   text-decoration: none;
 }
