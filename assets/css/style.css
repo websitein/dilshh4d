@@ -78,15 +78,16 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background:#fff;
   overflow-y: auto;
 }
 
 #header .profile img {
   margin: 15px auto;
   display: block;
-  width: 120px;
-  border: 8px solid #2c2f3f;
+  width: 140px;
+  height: 9rem;
+  border-radius: 7rem;
 }
 
 #header .profile h1 {
@@ -293,4 +294,5 @@ h6 {
     margin-bottom: 30px;
   }
 }
+
 
